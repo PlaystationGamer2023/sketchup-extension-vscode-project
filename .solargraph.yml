@@ -3,7 +3,7 @@ require_paths:
 - src
 
 require:
-- sketchup-api-stubs
+- Sketchup-api-stubs
 
 reporters:
 - rubocop
