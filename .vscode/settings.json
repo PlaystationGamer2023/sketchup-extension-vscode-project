@@ -4,4 +4,8 @@
     "rubocop",
     "sketchup"
   ],
+  "cSpell.enableFiletypes": [
+    "gemfile",
+    "ruby"
+  ],
 }

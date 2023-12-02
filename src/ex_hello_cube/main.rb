@@ -12,7 +12,7 @@ module Examples
       group = model.active_entities.add_group
       entities = group.entities
       points = [
-        Geom::Point3d.new(0,   0,   0),
+        Geom::Poi`nt3d.new(0,   0,   0),
         Geom::Point3d.new(1.m, 0,   0),
         Geom::Point3d.new(1.m, 1.m, 0),
         Geom::Point3d.new(0,   1.m, 0)
